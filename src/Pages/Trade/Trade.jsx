@@ -253,7 +253,7 @@ const Trade = () => {
       </Card>
       <Card>
         <CardHeader className='px-7'>
-          <CardTitle>Clients</CardTitle>
+          <CardTitle>Trades</CardTitle>
           <CardDescription>Recent Clients Created by you.</CardDescription>
         </CardHeader>
         <CardContent>
